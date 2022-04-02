@@ -2,9 +2,7 @@
 =: Core Concepts :=
 ===================
 
-- List the four core concepts, the features they implement, and why each feature
-  is an appropriate use of the concept. Incorporate the feedback you got after
-  submitting your proposal.
+- Core concepts, the features they implement:
 
   1. 2D-Array: One key component of my game is the maze where there are regions your PacMan could 
   enter and regions where it could not. By creating an 2D int array initially just of 1 and 0 and 
